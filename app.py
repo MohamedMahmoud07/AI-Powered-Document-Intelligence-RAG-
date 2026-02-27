@@ -25,12 +25,12 @@ load_dotenv()
 
 # ---------- PAGE CONFIG ----------
 st.set_page_config(
-    page_title="Q & A",
+    page_title="AI-Powered Document Intelligence (RAG)",
     page_icon="📄",
     layout="centered"
 )
 
-st.title("📄Q & A from Document")
+st.title("AI-Powered Document Intelligence (RAG)")
 st.caption("Upload a document and ask questions from it")
 
 # ---------- SIDEBAR ----------
